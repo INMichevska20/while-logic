@@ -10,10 +10,12 @@ CONFIG += c++17
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
+    pvpgameplay.cpp \
     pvpwindow.cpp
 
 HEADERS += \
     mainwindow.h \
+    pvpgameplay.h \
     pvpwindow.h
 
 FORMS += \

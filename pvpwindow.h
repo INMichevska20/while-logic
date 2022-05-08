@@ -13,10 +13,13 @@ class PvPwindow : public QDialog
 
 public:
     explicit PvPwindow(QWidget *parent = nullptr);
+    void ChooseCard();
+    void SelectCard();
     ~PvPwindow();
 
 private:
     Ui::PvPwindow *ui;
+    QIcon selected;
 };
 
 #endif // PVPWINDOW_H
