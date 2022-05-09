@@ -5,7 +5,7 @@
 </p>
 
 ## ❓About
-<p></p>
+<p>The aim of our team, composed of four students is to create Booleo game using C++ as main language. Our end goal is also to implement the rules of the game as close as we can in order to help our fellow students to learn the boolean logic. We created two stages- person vs person and person vs computer.</p>
 
 ## 🖥️ Used technologies
 ### Used technologies for the game development
