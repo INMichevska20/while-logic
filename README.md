@@ -1,7 +1,8 @@
 # Team While(!logic)
 
 <p align = "center">
-    <img src = "Design/Logo-v2.png" alt="logo" width=200px/>
+    <img src = "Design/Logo.png#gh-light-mode-only" alt="logo" width=200px/>
+    <img src = "Design/Logo-v2.png#gh-light-dark-only" alt="logo" width=200px/>
 </p>
 
 ## ❓About
