@@ -1317,7 +1317,7 @@ border:  0;</string>
    <property name="geometry">
     <rect>
      <x>-50</x>
-     <y>0</y>
+     <y>-30</y>
      <width>1351</width>
      <height>851</height>
     </rect>
