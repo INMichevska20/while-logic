@@ -11,14 +11,18 @@
 ## 🖥️ Used technologies
 ### Used technologies for the game development
 <p align="left">
-    <img src="" alt="" width=48px />
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" alt="C++" width=48px />
+    <img src="https://user-images.githubusercontent.com/85338764/167484309-c8c92f0c-8b4d-499c-93c2-71e2c5486182.png" alt="Visual Studio" width=55px />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="Git" width=55px />
 </p>
 
 ### Used technologies for design and communication
 <p align="left">
-    <img src="" alt="" width=48px />
+    <img src="https://www.freeiconspng.com/thumbs/adobe-photoshop-icon/dark-adobe-photoshop-icon-0.png" alt="Photoshop" width=47px />
+    <img src="https://www.pinclipart.com/picdir/big/401-4019240_na-ms-word-png-icon-clipart.png" alt="Word" width=55px />
+    <img src="https://www.freeiconspng.com/thumbs/ppt-icon/powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" alt="Power Point" width=53px height=53px/>
+    <img src="https://pnggrid.com/wp-content/uploads/2021/07/Microsoft-Teams-Logo.png" alt="Teams" width=53px />
 </p>
-
 
 ## 📚 Documentation and presentation
 - [Documentation]()
