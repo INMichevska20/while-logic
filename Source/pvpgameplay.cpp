@@ -1,4 +1,4 @@
-#include "pvpgameplay.h"
+#include "Headers/pvpgameplay.h"
 #define SIZE 6
 
 PvPgameplay::PvPgameplay()

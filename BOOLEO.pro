@@ -8,15 +8,15 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    main.cpp \
-    mainwindow.cpp \
-    pvpgameplay.cpp \
-    pvpwindow.cpp
+    Source/main.cpp \
+    Source/mainwindow.cpp \
+    Source/pvpgameplay.cpp \
+    Source/pvpwindow.cpp
 
 HEADERS += \
-    mainwindow.h \
-    pvpgameplay.h \
-    pvpwindow.h
+    Headers/mainwindow.h \
+    Headers/pvpgameplay.h \
+    Headers/pvpwindow.h
 
 FORMS += \
     mainwindow.ui \
