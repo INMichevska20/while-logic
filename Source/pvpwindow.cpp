@@ -1,6 +1,6 @@
-#include "pvpwindow.h"
+#include "Headers/pvpwindow.h"
 #include "ui_pvpwindow.h"
-#include "pvpgameplay.h"
+#include "Headers/pvpgameplay.h"
 
 PvPwindow::PvPwindow(QWidget *parent) :
     QDialog(parent),
