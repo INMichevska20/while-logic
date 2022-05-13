@@ -25,7 +25,7 @@
 </p>
 
 ## 📚 PDF Documents
-- [Documentation](file:///C:/Users/imich/OneDrive/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documentation.pdf)
+- [Documentation](https://codingburgas-my.sharepoint.com/:b:/g/personal/inmichevska20_codingburgas_bg/EUzcL6G7fuZPpXQtc8rMIXsBNMohg6Fb3HrhuK0ntqkNiQ?e=SPtgfh)
 - [QA Documentation]()
 - [Presentation](https://codingburgas-my.sharepoint.com/:b:/g/personal/inmichevska20_codingburgas_bg/EbpH1Jd5X_NEvoyYWcZH764BZ0OZEQcluyVS5o8sJZDX0A?e=qi8w51)
 
