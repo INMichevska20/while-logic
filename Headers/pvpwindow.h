@@ -2,6 +2,7 @@
 #define PVPWINDOW_H
 
 #include <QDialog>
+#include <iostream>
 
 namespace Ui {
 class PvPwindow;

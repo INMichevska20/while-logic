@@ -18,8 +18,8 @@ bool* PvPgameplay::generateCards(int size) {
 }
 
 void PvPgameplay::initPixmaps() {
-    card01 = new QPixmap("Medium_1.png");
-    card01Flipped = new QPixmap("Medium_2.png");
+    card01 = new QPixmap("Design/Medium_1.png");
+    card01Flipped = new QPixmap("Design/Medium_2.png");
 }
 
 void PvPgameplay::printCards(QPushButton * arr[]) {

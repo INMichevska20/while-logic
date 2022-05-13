@@ -4,6 +4,7 @@
 #include <QPixmap>
 #include <cstdlib>
 #include <ctime>
+#include <iostream>
 
 class PvPgameplay
 {

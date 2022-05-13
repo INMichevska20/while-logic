@@ -1,6 +1,7 @@
 #include "Headers/pvpwindow.h"
 #include "ui_pvpwindow.h"
 #include "Headers/pvpgameplay.h"
+#include "Headers/assing_cards.h"
 
 PvPwindow::PvPwindow(QWidget *parent) :
     QDialog(parent),
@@ -11,7 +12,6 @@ PvPwindow::PvPwindow(QWidget *parent) :
     PvPgameplay* gamePlay = new PvPgameplay();
     gamePlay->printCards(arr);
 
-    connect(ui->pushButton_37, &QPushButton::clicked, this, &PvPwindow::ChooseCard);
     connect(ui->player1_1_1, &QPushButton::clicked, this, &PvPwindow::SelectCard);
     connect(ui->player1_1_2, &QPushButton::clicked, this, &PvPwindow::SelectCard);
     connect(ui->player1_1_3, &QPushButton::clicked, this, &PvPwindow::SelectCard);
