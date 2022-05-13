@@ -24,10 +24,10 @@
     <img src="https://pnggrid.com/wp-content/uploads/2021/07/Microsoft-Teams-Logo.png" alt="Teams" width=53px />
 </p>
 
-## 📚 Documentation and presentation
-- [Documentation]()
+## 📚 PDF Documents
+- [Documentation](file:///C:/Users/imich/OneDrive/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/Documentation.pdf)
 - [QA Documentation]()
-- [Presentation]()
+- [Presentation](https://codingburgas-my.sharepoint.com/:b:/g/personal/inmichevska20_codingburgas_bg/EbpH1Jd5X_NEvoyYWcZH764BZ0OZEQcluyVS5o8sJZDX0A?e=qi8w51)
 
 ## 📥 Download
 <p> To download our game on your computer, paste the code below in CMD in order to clone it.</p>
