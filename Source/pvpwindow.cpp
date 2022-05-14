@@ -8,9 +8,13 @@ PvPwindow::PvPwindow(QWidget *parent) :
     ui(new Ui::PvPwindow)
 {
     ui->setupUi(this);
-    QPushButton* arr[] = {ui->baseCard1, ui->baseCard2, ui->baseCard3, ui->baseCard4, ui->baseCard5, ui->baseCard6};
+    QPushButton* base[] = {ui->baseCard1, ui->baseCard2, ui->baseCard3, ui->baseCard4, ui->baseCard5, ui->baseCard6};
+    QPushButton* player1Hand[] = {ui->player1_hand1, ui->player1_hand2, ui->player1_hand3,ui->player1_hand4, ui->player1_hand5};
+    QPushButton* player2Hand[] = {ui->player2_hand1, ui->player2_hand2, ui->player2_hand3,ui->player2_hand4, ui->player2_hand5};
     PvPgameplay* gamePlay = new PvPgameplay();
-    gamePlay->printCards(arr);
+    gamePlay->printBase(base);
+    gamePlay->printPlayerCards(player1Hand);
+    gamePlay->printPlayerCards(player2Hand);
 
     connect(ui->player1_1_1, &QPushButton::clicked, this, &PvPwindow::SelectCard);
     connect(ui->player1_1_2, &QPushButton::clicked, this, &PvPwindow::SelectCard);

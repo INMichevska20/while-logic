@@ -10,11 +10,12 @@ class PvPgameplay
 {
 public:
     PvPgameplay();
-    void printCards(QPushButton* arr[]);
+    void printBase(QPushButton* arr[]);
+    void printPlayerCards(QPushButton* arr[]);
 
 private:
     bool* generateCards(int size);
-    QPixmap* card01, *card01Flipped;
+    QPixmap *baseCard, *baseCardFlipped, *empty, *available, *XOR1, *XOR0, *AND1, *AND0, *OR1, *OR0;
     void initPixmaps();
 };
 

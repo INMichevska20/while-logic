@@ -175,7 +175,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_43">
+  <widget class="QPushButton" name="player2_hand3">
    <property name="geometry">
     <rect>
      <x>510</x>
@@ -472,7 +472,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_36">
+  <widget class="QPushButton" name="player1_5_1">
    <property name="geometry">
     <rect>
      <x>490</x>
@@ -553,7 +553,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_38">
+  <widget class="QPushButton" name="player1_hand2">
    <property name="geometry">
     <rect>
      <x>450</x>
@@ -664,8 +664,8 @@ border:  0;</string>
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>90</x>
-     <y>710</y>
+     <x>1050</x>
+     <y>40</y>
      <width>49</width>
      <height>16</height>
     </rect>
@@ -704,7 +704,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_39">
+  <widget class="QPushButton" name="player1_hand3">
    <property name="geometry">
     <rect>
      <x>510</x>
@@ -825,7 +825,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_41">
+  <widget class="QPushButton" name="player1_hand5">
    <property name="geometry">
     <rect>
      <x>630</x>
@@ -879,7 +879,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_40">
+  <widget class="QPushButton" name="player1_hand4">
    <property name="geometry">
     <rect>
      <x>570</x>
@@ -919,7 +919,7 @@ border:  0;</string>
     <string>Discard</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_46">
+  <widget class="QPushButton" name="player2_hand1">
    <property name="geometry">
     <rect>
      <x>390</x>
@@ -946,7 +946,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_42">
+  <widget class="QPushButton" name="player2_hand5">
    <property name="geometry">
     <rect>
      <x>630</x>
@@ -973,7 +973,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_44">
+  <widget class="QPushButton" name="player2_hand2">
    <property name="geometry">
     <rect>
      <x>450</x>
@@ -1030,8 +1030,8 @@ border:  0;</string>
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>1060</x>
-     <y>30</y>
+     <x>80</x>
+     <y>710</y>
      <width>49</width>
      <height>16</height>
     </rect>
@@ -1259,7 +1259,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_37">
+  <widget class="QPushButton" name="player1_hand1">
    <property name="geometry">
     <rect>
      <x>390</x>
@@ -1286,7 +1286,7 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_45">
+  <widget class="QPushButton" name="player2_hand4">
    <property name="geometry">
     <rect>
      <x>570</x>
@@ -1313,11 +1313,11 @@ border:  0;</string>
     </size>
    </property>
   </widget>
-  <widget class="QLabel" name="label_3">
+  <widget class="QLabel" name="Background">
    <property name="geometry">
     <rect>
-     <x>-120</x>
-     <y>-40</y>
+     <x>-130</x>
+     <y>-20</y>
      <width>1351</width>
      <height>851</height>
     </rect>
@@ -1329,21 +1329,21 @@ border:  0;</string>
     <string/>
    </property>
   </widget>
-  <zorder>label_3</zorder>
-  <zorder>pushButton_43</zorder>
-  <zorder>pushButton_38</zorder>
+  <zorder>Background</zorder>
+  <zorder>player2_hand3</zorder>
+  <zorder>player1_hand2</zorder>
   <zorder>label_2</zorder>
-  <zorder>pushButton_39</zorder>
+  <zorder>player1_hand3</zorder>
   <zorder>pushButton_47</zorder>
-  <zorder>pushButton_41</zorder>
-  <zorder>pushButton_40</zorder>
+  <zorder>player1_hand5</zorder>
+  <zorder>player1_hand4</zorder>
   <zorder>pushButton_48</zorder>
-  <zorder>pushButton_46</zorder>
-  <zorder>pushButton_42</zorder>
-  <zorder>pushButton_44</zorder>
+  <zorder>player2_hand1</zorder>
+  <zorder>player2_hand5</zorder>
+  <zorder>player2_hand2</zorder>
   <zorder>label</zorder>
-  <zorder>pushButton_37</zorder>
-  <zorder>pushButton_45</zorder>
+  <zorder>player1_hand1</zorder>
+  <zorder>player2_hand4</zorder>
   <zorder>baseCard3</zorder>
   <zorder>baseCard2</zorder>
   <zorder>baseCard5</zorder>
@@ -1379,7 +1379,7 @@ border:  0;</string>
   <zorder>player1_3_3</zorder>
   <zorder>player1_4_1</zorder>
   <zorder>player1_4_2</zorder>
-  <zorder>pushButton_36</zorder>
+  <zorder>player1_5_1</zorder>
  </widget>
  <resources/>
  <connections/>
