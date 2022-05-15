@@ -20,6 +20,7 @@
 <p align="left">
     <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="Photoshop" width=53px />
     <img src="https://www.pinclipart.com/picdir/big/401-4019240_na-ms-word-png-icon-clipart.png" alt="Word" width=53px />
+    <img src="https://www.bezplatno.net/pictures/2021/01/22/1483231_XL_1611320978.png" alt="Excel" width=53px />
     <img src="https://www.freeiconspng.com/thumbs/ppt-icon/powerpoint-icon-microsoft-powerpoint-icon-network-powerpoint-icons-and-3.png" alt="Power Point" width=53px height=53px/>
     <img src="https://pnggrid.com/wp-content/uploads/2021/07/Microsoft-Teams-Logo.png" alt="Teams" width=53px />
 </p>
