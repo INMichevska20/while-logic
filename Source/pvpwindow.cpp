@@ -61,10 +61,6 @@ PvPwindow::PvPwindow(QWidget *parent) :
 
 void PvPwindow::ChooseCard() {
     QPushButton* q = (QPushButton*) sender();
-    if(q->icon()  QIcon("Design/Placeborder.png"))
-    {
-
-    }
 
     selected = q->icon();
     q->setIcon(QIcon("Design/Placeborder.png"));

@@ -42,7 +42,7 @@ background-color: qlineargradient(spread:pad, x1:0.0782123, y1:0.114, x2:1, y2:1
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
-      <widget class="QPushButton" name="pushButton">
+      <widget class="QPushButton" name="PvPButton">
        <property name="cursor">
         <cursorShape>PointingHandCursor</cursorShape>
        </property>
@@ -57,14 +57,13 @@ border-color: rgb(33, 33, 33);</string>
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton_2">
+      <widget class="QPushButton" name="PvEButton">
        <property name="cursor">
         <cursorShape>PointingHandCursor</cursorShape>
        </property>
        <property name="styleSheet">
         <string notr="true">font-size: 40px;
-background-color: qlineargradient(spread:reflect, x1:1, y1:1, x2:1, y2:0, stop:0 rgba(89, 89, 89, 255), stop:0.5 rgba(76, 76, 76, 255), stop:1 rgba(89, 89, 89, 255));
-border-color: rgb(33, 33, 33);</string>
+background-color: qlineargradient(spread:reflect, x1:1, y1:1, x2:1, y2:0, stop:0 rgba(89, 89, 89, 255), stop:0.5 rgba(76, 76, 76, 255), stop:1 rgba(89, 89, 89, 255));</string>
        </property>
        <property name="text">
         <string>PVE</string>
@@ -72,15 +71,13 @@ border-color: rgb(33, 33, 33);</string>
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton_3">
+      <widget class="QPushButton" name="SettingsButton">
        <property name="cursor">
         <cursorShape>PointingHandCursor</cursorShape>
        </property>
        <property name="styleSheet">
         <string notr="true">font-size: 40px;
-border-color: rgb(70, 70, 70);
-background-color: qlineargradient(spread:reflect, x1:1, y1:1, x2:1, y2:0, stop:0 rgba(89, 89, 89, 255), stop:0.5 rgba(76, 76, 76, 255), stop:1 rgba(89, 89, 89, 255));
-border-color: rgb(33, 33, 33);</string>
+background-color: qlineargradient(spread:reflect, x1:1, y1:1, x2:1, y2:0, stop:0 rgba(89, 89, 89, 255), stop:0.5 rgba(76, 76, 76, 255), stop:1 rgba(89, 89, 89, 255));</string>
        </property>
        <property name="text">
         <string>Settings</string>
