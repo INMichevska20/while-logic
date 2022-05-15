@@ -3,6 +3,7 @@
 
 #include <QDialog>
 #include <iostream>
+#include "pvpgameplay.h"
 
 namespace Ui {
 class PvPwindow;
@@ -21,6 +22,7 @@ public:
 private:
     Ui::PvPwindow *ui;
     QIcon selected;
+    QIcon removeCard;
 };
 
 #endif // PVPWINDOW_H

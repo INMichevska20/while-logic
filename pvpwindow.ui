@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1202</width>
-    <height>800</height>
+    <width>1398</width>
+    <height>1031</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,10 +16,10 @@
   <widget class="QPushButton" name="baseCard6">
    <property name="geometry">
     <rect>
-     <x>640</x>
-     <y>370</y>
-     <width>75</width>
-     <height>75</height>
+     <x>820</x>
+     <y>480</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -35,18 +35,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="baseCard3">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>370</y>
-     <width>75</width>
-     <height>75</height>
+     <x>580</x>
+     <y>480</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -62,18 +62,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_2_4">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>470</y>
-     <width>75</width>
-     <height>75</height>
+     <x>740</x>
+     <y>600</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -89,18 +89,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_2_2">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>260</y>
-     <width>75</width>
-     <height>75</height>
+     <x>580</x>
+     <y>330</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -116,18 +116,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_2_3">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>260</y>
-     <width>75</width>
-     <height>75</height>
+     <x>660</x>
+     <y>330</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -143,18 +143,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_3_2">
    <property name="geometry">
     <rect>
-     <x>490</x>
-     <y>220</y>
-     <width>75</width>
-     <height>75</height>
+     <x>620</x>
+     <y>260</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -170,45 +170,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player2_hand3">
-   <property name="geometry">
-    <rect>
-     <x>510</x>
-     <y>710</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/AND_1.png</normaloff>Design/AND_1.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_5_1">
    <property name="geometry">
     <rect>
-     <x>490</x>
+     <x>620</x>
      <y>140</y>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -224,18 +197,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="baseCard4">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>370</y>
-     <width>75</width>
-     <height>75</height>
+     <x>660</x>
+     <y>480</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -251,18 +224,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_1_5">
    <property name="geometry">
     <rect>
-     <x>610</x>
-     <y>300</y>
-     <width>75</width>
-     <height>75</height>
+     <x>780</x>
+     <y>400</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -278,18 +251,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_1_4">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>430</y>
-     <width>75</width>
-     <height>75</height>
+     <x>700</x>
+     <y>550</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -305,18 +278,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="baseCard2">
    <property name="geometry">
     <rect>
-     <x>400</x>
-     <y>370</y>
-     <width>75</width>
-     <height>75</height>
+     <x>500</x>
+     <y>480</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -332,18 +305,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_4_2">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>180</y>
-     <width>75</width>
-     <height>75</height>
+     <x>660</x>
+     <y>190</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -359,18 +332,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_2_4">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>260</y>
-     <width>75</width>
-     <height>75</height>
+     <x>740</x>
+     <y>330</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -386,18 +359,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_4_2">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>550</y>
-     <width>75</width>
-     <height>75</height>
+     <x>650</x>
+     <y>720</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -413,18 +386,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_3_1">
    <property name="geometry">
     <rect>
-     <x>430</x>
-     <y>220</y>
-     <width>75</width>
-     <height>75</height>
+     <x>540</x>
+     <y>260</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -440,18 +413,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_3_2">
    <property name="geometry">
     <rect>
-     <x>490</x>
-     <y>510</y>
-     <width>75</width>
-     <height>75</height>
+     <x>620</x>
+     <y>660</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -467,18 +440,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_5_1">
    <property name="geometry">
     <rect>
-     <x>490</x>
-     <y>590</y>
-     <width>75</width>
-     <height>75</height>
+     <x>610</x>
+     <y>780</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -494,18 +467,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_2_1">
    <property name="geometry">
     <rect>
-     <x>400</x>
-     <y>470</y>
-     <width>75</width>
-     <height>75</height>
+     <x>500</x>
+     <y>610</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -521,18 +494,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_2_1">
    <property name="geometry">
     <rect>
-     <x>400</x>
-     <y>260</y>
-     <width>75</width>
-     <height>75</height>
+     <x>500</x>
+     <y>330</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -548,45 +521,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player1_hand2">
-   <property name="geometry">
-    <rect>
-     <x>450</x>
-     <y>40</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/AND_1.png</normaloff>Design/AND_1.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_1_2">
    <property name="geometry">
     <rect>
-     <x>430</x>
-     <y>430</y>
-     <width>75</width>
-     <height>75</height>
+     <x>540</x>
+     <y>550</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -602,18 +548,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_3_3">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>510</y>
-     <width>75</width>
-     <height>75</height>
+     <x>700</x>
+     <y>670</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -629,18 +575,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_3_3">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>220</y>
-     <width>75</width>
-     <height>75</height>
+     <x>700</x>
+     <y>260</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -656,16 +602,16 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>1050</x>
-     <y>40</y>
+     <x>1200</x>
+     <y>30</y>
      <width>49</width>
      <height>16</height>
     </rect>
@@ -680,10 +626,10 @@ border:  0;</string>
   <widget class="QPushButton" name="player1_1_3">
    <property name="geometry">
     <rect>
-     <x>490</x>
-     <y>430</y>
-     <width>75</width>
-     <height>75</height>
+     <x>620</x>
+     <y>550</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -699,45 +645,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player1_hand3">
-   <property name="geometry">
-    <rect>
-     <x>510</x>
-     <y>40</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/OR_0.png</normaloff>Design/OR_0.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_2_2">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>470</y>
-     <width>75</width>
-     <height>75</height>
+     <x>580</x>
+     <y>600</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -753,15 +672,15 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_47">
    <property name="geometry">
     <rect>
-     <x>1040</x>
+     <x>1180</x>
      <y>60</y>
      <width>80</width>
      <height>24</height>
@@ -774,10 +693,10 @@ border:  0;</string>
   <widget class="QPushButton" name="player2_1_1">
    <property name="geometry">
     <rect>
-     <x>370</x>
-     <y>300</y>
-     <width>75</width>
-     <height>75</height>
+     <x>460</x>
+     <y>400</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -793,18 +712,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="baseCard5">
    <property name="geometry">
     <rect>
-     <x>580</x>
-     <y>370</y>
-     <width>75</width>
-     <height>75</height>
+     <x>740</x>
+     <y>480</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -820,45 +739,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player1_hand5">
-   <property name="geometry">
-    <rect>
-     <x>630</x>
-     <y>40</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/XOR_0.png</normaloff>Design/XOR_0.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_1_4">
    <property name="geometry">
     <rect>
-     <x>550</x>
-     <y>300</y>
-     <width>75</width>
-     <height>75</height>
+     <x>700</x>
+     <y>400</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -874,43 +766,16 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player1_hand4">
-   <property name="geometry">
-    <rect>
-     <x>570</x>
-     <y>40</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/OR_1.png</normaloff>Design/OR_1.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_48">
    <property name="geometry">
     <rect>
-     <x>60</x>
-     <y>740</y>
+     <x>70</x>
+     <y>980</y>
      <width>81</width>
      <height>24</height>
     </rect>
@@ -919,94 +784,13 @@ border:  0;</string>
     <string>Discard</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="player2_hand1">
-   <property name="geometry">
-    <rect>
-     <x>390</x>
-     <y>710</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/XOR_1.png</normaloff>Design/XOR_1.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player2_hand5">
-   <property name="geometry">
-    <rect>
-     <x>630</x>
-     <y>710</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/OR_1.png</normaloff>Design/OR_1.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player2_hand2">
-   <property name="geometry">
-    <rect>
-     <x>450</x>
-     <y>710</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/AND_0.png</normaloff>Design/AND_0.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
   <widget class="QPushButton" name="player1_1_5">
    <property name="geometry">
     <rect>
-     <x>610</x>
-     <y>430</y>
-     <width>75</width>
-     <height>75</height>
+     <x>780</x>
+     <y>550</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1022,16 +806,16 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>80</x>
-     <y>710</y>
+     <x>90</x>
+     <y>950</y>
      <width>49</width>
      <height>16</height>
     </rect>
@@ -1046,10 +830,10 @@ border:  0;</string>
   <widget class="QPushButton" name="player2_1_3">
    <property name="geometry">
     <rect>
-     <x>490</x>
-     <y>300</y>
-     <width>75</width>
-     <height>75</height>
+     <x>620</x>
+     <y>400</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1065,18 +849,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_4_1">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>180</y>
-     <width>75</width>
-     <height>75</height>
+     <x>580</x>
+     <y>190</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1092,18 +876,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_1_1">
    <property name="geometry">
     <rect>
-     <x>370</x>
-     <y>430</y>
-     <width>75</width>
-     <height>75</height>
+     <x>460</x>
+     <y>550</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1119,18 +903,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="baseCard1">
    <property name="geometry">
     <rect>
-     <x>340</x>
-     <y>370</y>
-     <width>75</width>
-     <height>75</height>
+     <x>420</x>
+     <y>480</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1146,18 +930,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_2_3">
    <property name="geometry">
     <rect>
-     <x>520</x>
-     <y>470</y>
-     <width>75</width>
-     <height>75</height>
+     <x>660</x>
+     <y>600</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1173,18 +957,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_3_1">
    <property name="geometry">
     <rect>
-     <x>430</x>
-     <y>510</y>
-     <width>75</width>
-     <height>75</height>
+     <x>540</x>
+     <y>670</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1200,18 +984,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player1_4_1">
    <property name="geometry">
     <rect>
-     <x>460</x>
-     <y>550</y>
-     <width>75</width>
-     <height>75</height>
+     <x>570</x>
+     <y>720</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1227,18 +1011,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QPushButton" name="player2_1_2">
    <property name="geometry">
     <rect>
-     <x>430</x>
-     <y>300</y>
-     <width>75</width>
-     <height>75</height>
+     <x>540</x>
+     <y>400</y>
+     <width>100</width>
+     <height>100</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1254,72 +1038,18 @@ border:  0;</string>
    </property>
    <property name="iconSize">
     <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player1_hand1">
-   <property name="geometry">
-    <rect>
-     <x>390</x>
-     <y>40</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/AND_0.png</normaloff>Design/AND_0.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
-    </size>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="player2_hand4">
-   <property name="geometry">
-    <rect>
-     <x>570</x>
-     <y>710</y>
-     <width>75</width>
-     <height>75</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color: transparent;
-border:  0;</string>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="icon">
-    <iconset>
-     <normaloff>Design/OR_0.png</normaloff>Design/OR_0.png</iconset>
-   </property>
-   <property name="iconSize">
-    <size>
-     <width>75</width>
-     <height>75</height>
+     <width>100</width>
+     <height>100</height>
     </size>
    </property>
   </widget>
   <widget class="QLabel" name="Background">
    <property name="geometry">
     <rect>
-     <x>-130</x>
-     <y>-20</y>
-     <width>1351</width>
-     <height>851</height>
+     <x>-60</x>
+     <y>-50</y>
+     <width>2431</width>
+     <height>1471</height>
     </rect>
    </property>
    <property name="styleSheet">
@@ -1329,21 +1059,245 @@ border:  0;</string>
     <string/>
    </property>
   </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>20</y>
+     <width>546</width>
+     <height>102</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QPushButton" name="player1_hand1">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/AND_0.png</normaloff>Design/AND_0.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player1_hand2">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/AND_1.png</normaloff>Design/AND_1.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player1_hand4">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/OR_1.png</normaloff>Design/OR_1.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player1_hand3">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/OR_0.png</normaloff>Design/OR_0.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player1_hand5">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/XOR_0.png</normaloff>Design/XOR_0.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>910</y>
+     <width>546</width>
+     <height>102</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <widget class="QPushButton" name="player2_hand1">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/XOR_1.png</normaloff>Design/XOR_1.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player2_hand3">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/AND_1.png</normaloff>Design/AND_1.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player2_hand4">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/OR_0.png</normaloff>Design/OR_0.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player2_hand2">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/AND_0.png</normaloff>Design/AND_0.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="player2_hand5">
+      <property name="styleSheet">
+       <string notr="true">background-color: transparent;
+border:  0;</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset>
+        <normaloff>Design/OR_1.png</normaloff>Design/OR_1.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>100</width>
+        <height>100</height>
+       </size>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
   <zorder>Background</zorder>
-  <zorder>player2_hand3</zorder>
-  <zorder>player1_hand2</zorder>
   <zorder>label_2</zorder>
-  <zorder>player1_hand3</zorder>
   <zorder>pushButton_47</zorder>
-  <zorder>player1_hand5</zorder>
-  <zorder>player1_hand4</zorder>
   <zorder>pushButton_48</zorder>
-  <zorder>player2_hand1</zorder>
-  <zorder>player2_hand5</zorder>
-  <zorder>player2_hand2</zorder>
   <zorder>label</zorder>
-  <zorder>player1_hand1</zorder>
-  <zorder>player2_hand4</zorder>
   <zorder>baseCard3</zorder>
   <zorder>baseCard2</zorder>
   <zorder>baseCard5</zorder>
@@ -1380,6 +1334,8 @@ border:  0;</string>
   <zorder>player1_4_1</zorder>
   <zorder>player1_4_2</zorder>
   <zorder>player1_5_1</zorder>
+  <zorder>horizontalLayoutWidget</zorder>
+  <zorder>horizontalLayoutWidget_2</zorder>
  </widget>
  <resources/>
  <connections/>

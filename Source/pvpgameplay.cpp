@@ -21,7 +21,7 @@ bool* PvPgameplay::generateCards(int size) {
 void PvPgameplay::initPixmaps() {
     baseCard = new QPixmap("Design/Medium_1.png");
     baseCardFlipped = new QPixmap("Design/Medium_2.png");
-    empty = new QPixmap("Design/Placeborder.png");
+    emptyCard = new QPixmap("Design/Placeborder.png");
     available = new QPixmap("Design/Placeholder.png");
     XOR1 = new QPixmap("Design/XOR_1.png");
     XOR0 = new QPixmap("Design/XOR_0.png");
@@ -33,19 +33,27 @@ void PvPgameplay::initPixmaps() {
 
 void PvPgameplay::printBase(QPushButton * arr[]) {
     bool* cards = generateCards(SIZE1);
-
+    int m = 0, n = 0;
     for(int i = 0; i < SIZE1; i++) {
         if(cards[i])
         {
             QIcon* q = new QIcon();
             q->addPixmap(*baseCard);
             arr[i]->setIcon(*q);
+            baseValue[m][n] = 1;
+            m++;
+            baseValue[m][n] = 0;
+            n++;
         }
         else
         {
             QIcon* q = new QIcon();
             q->addPixmap(*baseCardFlipped);
             arr[i]->setIcon(*q);
+            baseValue[m][n] = 0;
+            m++;
+            baseValue[m][n] = 1;
+            n++;
         }
     }
 }
