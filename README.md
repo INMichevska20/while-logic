@@ -25,9 +25,9 @@
 </p>
 
 ## 📚 PDF Documents
-- [Documentation](https://codingburgas-my.sharepoint.com/:b:/g/personal/inmichevska20_codingburgas_bg/EUzcL6G7fuZPpXQtc8rMIXsBNMohg6Fb3HrhuK0ntqkNiQ?e=SPtgfh)
-- [QA Documentation]()
-- [Presentation](https://codingburgas-my.sharepoint.com/:b:/g/personal/inmichevska20_codingburgas_bg/EbpH1Jd5X_NEvoyYWcZH764BZ0OZEQcluyVS5o8sJZDX0A?e=qi8w51)
+- [Documentation](Documents/Documentation.pdf)
+- [QA Documentation](Documents/QA_Documentation.pdf)
+- [Presentation](Documents/Presentation.pdf)
 
 ## 📥 Download
 <p> To download our game on your computer, paste the code below in CMD in order to clone it.</p>
